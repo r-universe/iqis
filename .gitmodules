@@ -8,3 +8,8 @@
 	url = https://github.com/iqis/mod
 	shallow = true
 	registered = true
+[submodule "Q7"]
+	path = Q7
+	url = https://github.com/iqis/q7
+	shallow = true
+	registered = true
