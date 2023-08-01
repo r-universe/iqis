@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "mod"]
-	path = mod
-	url = https://github.com/iqis/mod
 [submodule "Q7"]
 	path = Q7
 	url = https://github.com/iqis/q7
+[submodule "mod"]
+	path = mod
+	url = https://github.com/iqis/mod
